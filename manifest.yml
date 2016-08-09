@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-spring
+- name: lovereen
   memory: 512M
-  instances: 1
+  instances: 2
   random-route: true
